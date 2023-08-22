@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "project6",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DblQueue_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DblQueue_test-Debug-be4fbaec34f5ee31fbaa.json",
+					"name" : "DblQueue_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "String_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-String_test-Debug-f5cc9aa63a1975493a54.json",
+					"name" : "String_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "project6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-project6-Debug-e7b07b2776a115f00b2e.json",
+					"name" : "project6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/leonslaptop/Desktop/2023Spring/CS2201/Project 6/project6/cmake-build-debug",
+		"source" : "/Users/leonslaptop/Desktop/2023Spring/CS2201/Project 6/project6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
